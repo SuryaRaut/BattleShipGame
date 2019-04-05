@@ -1,0 +1,6 @@
+/Users/surya/Projects/BattleShip/FinalBattleship/bin/Debug/FinalBattleship.exe
+/Users/surya/Projects/BattleShip/FinalBattleship/bin/Debug/FinalBattleship.pdb
+/Users/surya/Projects/BattleShip/FinalBattleship/obj/x86/Debug/FinalBattleship.csproj.CoreCompileInputs.cache
+/Users/surya/Projects/BattleShip/FinalBattleship/obj/x86/Debug/FinalBattleship.exe
+/Users/surya/Projects/BattleShip/FinalBattleship/obj/x86/Debug/FinalBattleship.pdb
+/Users/surya/Projects/BattleShip/FinalBattleship/obj/x86/Debug/FinalBattleship.csprojAssemblyReference.cache
